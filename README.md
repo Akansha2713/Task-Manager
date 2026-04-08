@@ -44,7 +44,7 @@ https://todo-app-mern-er4l.onrender.com/api/todo
 ---
 
 ## 📂 Project Structure
-todo-app-MERN
+Task-Manager-MERN
 │
 ├── client # React frontend
 ├── server # Express backend
