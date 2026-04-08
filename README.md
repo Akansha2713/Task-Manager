@@ -1,6 +1,6 @@
 # 📝 MERN Task Manager App
 
-A full-stack Task Manager application built using the **MERN stack (MongoDB, Express, React, Node.js)**.  
+A full-stack Task Manager app built using the **MERN stack (MongoDB, Express, React, Node.js)**.  
 Users can add, view, update, complete, and delete tasks.
 
 ---
