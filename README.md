@@ -1,7 +1,7 @@
-# 📝 MERN Todo App
+# 📝 MERN Task Manager App
 
-A full-stack Todo application built using the **MERN stack (MongoDB, Express, React, Node.js)**.  
-Users can add, view, update, complete, and delete tasks with real-time persistence using MongoDB Atlas.
+A full-stack Task Manager application built using the **MERN stack (MongoDB, Express, React, Node.js)**.  
+Users can add, view, update, complete, and delete tasks.
 
 ---
 
@@ -17,7 +17,7 @@ https://todo-app-mern-er4l.onrender.com/api/todo
 
 ## ✨ Features
 
-✅ Add new todos with due date  
+✅ Add new tasks with due date  
 ✅ View all tasks  
 ✅ Mark tasks as completed  
 ✅ Delete tasks  
@@ -52,4 +52,4 @@ todo-app-MERN
 
 ## 👩‍💻 Author
 
-**Astha Negi**  
+**Akansha Negi**  
